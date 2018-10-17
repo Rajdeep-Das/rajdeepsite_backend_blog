@@ -10,7 +10,7 @@ Import the myblog.sql file, change the params in the config/Database.php file to
 
 ### Author
 
-Brad Traversy
+Rajdeep
 [Rajdeep Das](http://rajdeep-das.github.io/)
 
 ### Version
